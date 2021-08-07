@@ -41,7 +41,7 @@ jobs:
         run: |
           pwd
           chmod +x ch1.sh
-          ./ch1.sh
+          ./sh/ch1.sh
 
       - name: Main
         run: |
