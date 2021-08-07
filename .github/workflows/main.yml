@@ -52,12 +52,29 @@ jobs:
           git commit -m "link is updated"
           git push
 
-      
       - name: Main
         run: |
           pwd
-          chmod +x ch9.sh
-          ./ch9.sh
+          chmod +x ch1.sh
+          ./ch1.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x ch2.sh
+          ./ch2.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x ch3.sh
+          ./ch3.sh
+     
+      - name: Main
+        run: |
+          pwd
+          chmod +x ch4.sh
+          ./ch4.sh
         
       - name: git add
         run: |
