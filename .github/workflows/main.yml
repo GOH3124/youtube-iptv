@@ -40,7 +40,7 @@ jobs:
       - name: Main
         run: |
           pwd
-          chmod +x ch1.sh
+          chmod +x sh/ch1.sh
           ./sh/ch1.sh
 
       - name: Main
