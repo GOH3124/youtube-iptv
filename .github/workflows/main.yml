@@ -46,50 +46,50 @@ jobs:
       - name: Main
         run: |
           pwd
-          chmod +x ch2.sh
-          ./ch2.sh
+          chmod +x sh/ch2.sh
+          ./sh/ch2.sh
 
       - name: Main
         run: |
           pwd
-          chmod +x ch3.sh
-          ./ch3.sh
+          chmod +x sh/ch3.sh
+          ./sh/ch3.sh
      
       - name: Main
         run: |
           pwd
-          chmod +x ch4.sh
-          ./ch4.sh
+          chmod +x sh/ch4.sh
+          ./sh/ch4.sh
 
       - name: Main
         run: |
           pwd
-          chmod +x ch5.sh
-          ./ch5.sh
+          chmod +x sh/ch5.sh
+          ./sh/ch5.sh
 
       - name: Main
         run: |
           pwd
-          chmod +x ch6.sh
-          ./ch6.sh
+          chmod +x sh/ch6.sh
+          ./sh/ch6.sh
 
       - name: Main
         run: |
           pwd
-          chmod +x ch7.sh
-          ./ch7.sh
+          chmod +x sh/ch7.sh
+          ./sh/ch7.sh
 
       - name: Main
         run: |
           pwd
-          chmod +x ch8.sh
-          ./ch8.sh
+          chmod +x sh/ch8.sh
+          ./sh/ch8.sh
 
       - name: Main
         run: |
           pwd
-          chmod +x ch9.sh
-          ./ch9.sh
+          chmod +x sh/ch9.sh
+          ./sh/ch9.sh
         
       - name: git add
         run: |
