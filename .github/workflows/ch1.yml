@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: M3U generator
+name: ch1 generator
 
 # Controls when the action will run. 
 on:
