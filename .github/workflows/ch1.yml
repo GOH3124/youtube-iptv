@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: ch1 generator
+name: 01 generator
 
 # Controls when the action will run. 
 on:
@@ -33,7 +33,7 @@ jobs:
       # Runs a set of commands using the runners shell 
       - name: config
         run: |
-          git config --global user.email "gohhh40163@gmail.com"
+          git config --global user.email gohhh40163@gmail.com"
           git config --global user.name "GOH3124"
       
       
@@ -41,7 +41,7 @@ jobs:
         run: |
           pwd
           chmod +x ch1.sh
-          ../ch1.sh
+          ./ch1.sh
         
       - name: git add
         run: |
@@ -50,7 +50,7 @@ jobs:
           
       - name: commit & push
         run: |
-          git commit -m "links are updated"
+          git commit -m "link is updated"
           git push
           
           
