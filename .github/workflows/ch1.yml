@@ -40,8 +40,8 @@ jobs:
       - name: Main
         run: |
           pwd
-          chmod +x ch1.sh
-          ./ch1.sh
+          chmod +x 01.sh
+          ./01.sh
         
       - name: git add
         run: |
