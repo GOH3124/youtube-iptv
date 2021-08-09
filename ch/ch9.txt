@@ -2,4 +2,4 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 BNC | MY好玩 |  |
-https://www.youtube.com/watch?v=njiYpEDoXZg
+https://www.youtube.com/channel/UCxN3ZDvZZsf7zzS829prKWA/live
