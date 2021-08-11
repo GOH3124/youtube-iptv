@@ -38,7 +38,7 @@ def grab(url):
 
 print('#EXTM3U')
 print('#EXT-X-VERSION:3')
-print('#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000,RESOLUTION=854x480')
+print('#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000,RESOLUTION=1280x720,FRAME-RATE=30,VIDEO-RANGE=SDR,CLOSED-CAPTIONS=NONE')
 s = requests.Session()
 with open('../../ch/ch1.txt') as f:
     for line in f:
