@@ -30,12 +30,8 @@ def grab(url):
             break
         else:
             tuner += 5
-    streams = s.get(link[start:end]).text.split('#EXT')
-    sd = streams[-1].strip()
-    st = sd.find('http')
-    print(sd[st:].strip())
-    #print(f"{link[start : end]}")
-
+    print(f"{link[start : end]}")
+    
 print('#EXTM3U')
 print('#EXT-X-VERSION:3')
 print('#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000,RESOLUTION=1280x720,FRAME-RATE=30,VIDEO-RANGE=SDR,CLOSED-CAPTIONS=NONE')
