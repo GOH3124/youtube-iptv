@@ -2,4 +2,4 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 BNC | 8FM Live! |  |
-https://www.youtube.com/watch?v=dQUrsmcvmSA
+https://www.youtube.com/channel/UCXKqVoc7khb8cg3ugfrih4g/live
