@@ -30,11 +30,15 @@ def grab(url):
             break
         else:
             tuner += 5
-    print(f"{link[start : end]}")
-    
+    streams = s.get(link[start:end]).text.split('#EXT')
+    hd = streams[-1].strip()
+    st = hd.find('http')
+    print(hd[st:].strip())
+    #print(f"{link[start : end]}")
+
 print('#EXTM3U')
 print('#EXT-X-VERSION:3')
-print('#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1282517,RESOLUTION=854x480,FRAME-RATE=30,VIDEO-RANGE=SDR,CLOSED-CAPTIONS=NONE')
+print('#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000')
 s = requests.Session()
 with open('../../ch/ch1.txt') as f:
     for line in f:
