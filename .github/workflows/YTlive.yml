@@ -21,6 +21,7 @@ jobs:
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(youtube-dl -g https://www.youtube.com/channel/UCRzAqsmluZYk-r59pQYSa3Q/live)
         EOL
+        
     - name: Get 8FMLive!.m3u8
       run: |
         touch ./8FMLive!.m3u8
@@ -29,6 +30,15 @@ jobs:
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(youtube-dl -g https://www.youtube.com/channel/UCXKqVoc7khb8cg3ugfrih4g/live)
+        EOL        
+    - name: Get 36YnV9STBqc.m3u8
+      run: |
+        touch ./36YnV9STBqc.m3u8
+        sudo cat >./36YnV9STBqc.m3u8 <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(youtube-dl -g https://www.youtube.com/watch?v=36YnV9STBqc)
         EOL
     - name : Upload artifact
       uses: actions/upload-artifact@master
