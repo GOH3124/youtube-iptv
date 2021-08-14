@@ -11,16 +11,8 @@ jobs:
       run: |
         sudo curl -L https://yt-dl.org/downloads/latest/youtube-dl -o /usr/local/bin/youtube-dl
         sudo chmod a+rx /usr/local/bin/youtube-dl
-    - name: Get hyxw.m3u8
-      run: |
-        touch ./hyxw.m3u8
-        sudo cat >./hyxw.m3u8 <<EOL
-        #EXTM3U
-        #EXT-X-VERSION:3
-        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-        $(youtube-dl -g https://www.youtube.com/channel/UCp2f7tGJGN6R9Muxipem8Nw/live)
-        EOL
-    - name: Get africanews.m3u8
+
+    - name: Get MYFM.m3u8
       run: |
         touch ./MYFM.m3u8
         sudo cat >./MYFM.m3u8 <<EOL
@@ -29,14 +21,14 @@ jobs:
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(youtube-dl -g https://www.youtube.com/channel/UCRzAqsmluZYk-r59pQYSa3Q/live)
         EOL
-    - name: Get tvbsnews.m3u8
+    - name: Get 8FMLive!.m3u8
       run: |
-        touch ./tvbsnews.m3u8
-        sudo cat >./tvbsnews.m3u8 <<EOL
+        touch ./8FMLive!.m3u8
+        sudo cat >./8FMLive!.m3u8 <<EOL
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-        $(youtube-dl -g https://www.youtube.com/watch?v=V0WxUakDV7M)
+        $(youtube-dl -g https://www.youtube.com/channel/UCXKqVoc7khb8cg3ugfrih4g/live)
         EOL
     - name : Upload artifact
       uses: actions/upload-artifact@master
