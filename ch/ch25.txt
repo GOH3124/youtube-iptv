@@ -1,5 +1,5 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-AR | Al Sunna Nabwiya |  |
-https://www.youtube.com/channel/UCROKYPep-UuODNwyipe6JMw/live
+AR | افلام كرتون كيدو |  |
+https://www.youtube.com/channel/UCEof7Z2iOP48t9a0HYoek7A/live
