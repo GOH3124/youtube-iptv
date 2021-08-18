@@ -97,6 +97,12 @@ jobs:
           chmod +x sh/ch10.sh
           ./sh/ch10.sh
           
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch10.sh
+          ./sh/ch11.sh
+          
       - name: git add
         run: |
           git add -A
