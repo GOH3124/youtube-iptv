@@ -13,12 +13,12 @@ def grab(url):
     response = s.get(url, timeout=15).text
     if '.m3u8' not in response:
         if windows:
-            print('https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u8')
+            print('https://www.youtube.com/channel/UCROKYPep-UuODNwyipe6JMw/live')
             return
         os.system(f'wget {url} -O temp.txt')
         response = ''.join(open('temp.txt').readlines())
         if '.m3u8' not in response:
-            print('https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets//moose_na.m3u8')
+            print('https://www.youtube.com/channel/UCROKYPep-UuODNwyipe6JMw/live')
             return
     end = response.find('.m3u8') + 5
     tuner = 100
@@ -40,7 +40,7 @@ print('#EXTM3U')
 print('#EXT-X-VERSION:3')
 print('#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000')
 s = requests.Session()
-with open('../ch/ch11.txt') as f:
+with open('../ch/ch32.txt') as f:
     for line in f:
         line = line.strip()
         if not line or line.startswith('~~'):
