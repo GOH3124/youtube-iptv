@@ -160,8 +160,119 @@ jobs:
         run: |
           pwd
           chmod +x sh/ch21.sh
-          ./sh/ch21.sh      
+          ./sh/ch21.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch22.sh
+          ./sh/ch22.sh
           
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch23.sh
+          ./sh/ch23.sh
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch24.sh
+          ./sh/ch24.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch25.sh
+          ./sh/ch25.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch26.sh
+          ./sh/ch26.sh
+     
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch27.sh
+          ./sh/ch27.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch28.sh
+          ./sh/ch28.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch29.sh
+          ./sh/ch29.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch30.sh
+          ./sh/ch30.sh
+ 
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch31.sh
+          ./sh/ch31.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch32.sh
+          ./sh/ch32.sh
+          
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch33.sh
+          ./sh/ch33.sh
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch34.sh
+          ./sh/ch34.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch35.sh
+          ./sh/ch35.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch36.sh
+          ./sh/ch36.sh
+     
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch37.sh
+          ./sh/ch37.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch28.sh
+          ./sh/ch38.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch29.sh
+          ./sh/ch39.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch30.sh
+          ./sh/ch40.sh 
       - name: git add
         run: |
           git add -A
