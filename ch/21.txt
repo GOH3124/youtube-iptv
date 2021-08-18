@@ -2,4 +2,4 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 AR | قناة الشيخ محمد ابن عثيمين|  |
-https://www.youtube.com/user/ibnothaimeentv/live
+https://www.youtube.com/channel/UCtF3YygTiodnYSw8vD3UJtQ/live
