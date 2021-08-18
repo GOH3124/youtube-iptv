@@ -271,7 +271,7 @@ jobs:
       - name: Main
         run: |
           pwd
-          chmod +x sh/ch30.sh
+          chmod +x sh/ch40.sh
           ./sh/ch40.sh 
       - name: git add
         run: |
