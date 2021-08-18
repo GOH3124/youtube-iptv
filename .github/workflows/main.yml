@@ -259,13 +259,13 @@ jobs:
       - name: Main
         run: |
           pwd
-          chmod +x sh/ch28.sh
+          chmod +x sh/ch38.sh
           ./sh/ch38.sh
 
       - name: Main
         run: |
           pwd
-          chmod +x sh/ch29.sh
+          chmod +x sh/ch39.sh
           ./sh/ch39.sh
 
       - name: Main
