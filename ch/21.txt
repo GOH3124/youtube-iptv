@@ -1,5 +1,5 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-AR | قناة الشيخ محمد ابن عثيمين|  |
-https://www.youtube.com/channel/UCtF3YygTiodnYSw8vD3UJtQ/live
+AR | Tanasuh Tv|  |
+https://www.youtube.com/channel/UCRaoHR6b3zViY9QxfgFNntQ/live
