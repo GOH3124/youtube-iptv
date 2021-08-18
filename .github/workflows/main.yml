@@ -216,7 +216,7 @@ jobs:
           pwd
           chmod +x sh/ch30.sh
           ./sh/ch30.sh
-		  
+
       - name: Main
         run: |
           pwd
@@ -275,7 +275,7 @@ jobs:
           pwd
           chmod +x sh/ch40.sh
           ./sh/ch40.sh
-		  
+
       - name: Main
         run: |
           pwd
@@ -335,7 +335,7 @@ jobs:
           pwd
           chmod +x sh/ch50.sh
           ./sh/ch50.sh
-		  
+
       - name: Main
         run: |
           pwd
@@ -395,7 +395,7 @@ jobs:
           pwd
           chmod +x sh/ch60.sh
           ./sh/ch60.sh
-		  
+
       - name: Main
         run: |
           pwd
@@ -455,7 +455,7 @@ jobs:
           pwd
           chmod +x sh/ch70.sh
           ./sh/ch70.sh
-		  
+
       - name: Main
         run: |
           pwd
@@ -515,7 +515,7 @@ jobs:
           pwd
           chmod +x sh/ch80.sh
           ./sh/ch80.sh
-		  
+
       - name: Main
         run: |
           pwd
@@ -575,7 +575,7 @@ jobs:
           pwd
           chmod +x sh/ch90.sh
           ./sh/ch90.sh
-		  
+
       - name: Main
         run: |
           pwd
