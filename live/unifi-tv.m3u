@@ -451,5 +451,5 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/SURIA_FMAAC.aa
 #EXTINF:-1 group-title="Radio Stations" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/MY2017.png",MYFM-TV
 https://raw.githubusercontent.com/GOH3124/youtube-iptv/YTlive/MYFM.m3u8
 
-#EXTINF:-1 group-title="Radio Stations" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/98/8_FM_%28Malaysian_radio_station%29_logo.png/100px-8_FM_%28Malaysian_radio_station%29_logo.png",MYFM-TV
+#EXTINF:-1 group-title="Radio Stations" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/98/8_FM_%28Malaysian_radio_station%29_logo.png/100px-8_FM_%28Malaysian_radio_station%29_logo.png",8FM/onefm-TV
 https://raw.githubusercontent.com/GOH3124/youtube-iptv/YTlive/8FMLive!.m3u8
