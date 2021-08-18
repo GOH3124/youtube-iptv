@@ -96,7 +96,7 @@ jobs:
           pwd
           chmod +x sh/ch10.sh
           ./sh/ch10.sh
-		  
+
       - name: Main
         run: |
           pwd
@@ -156,7 +156,7 @@ jobs:
           pwd
           chmod +x sh/ch20.sh
           ./sh/ch20.sh
-		  
+
       - name: Main
         run: |
           pwd
