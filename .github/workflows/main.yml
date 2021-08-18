@@ -108,6 +108,59 @@ jobs:
           pwd
           chmod +x sh/ch12.sh
           ./sh/ch12.sh
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch13.sh
+          ./sh/ch13.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch14.sh
+          ./sh/ch14.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch15.sh
+          ./sh/ch15.sh
+     
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch16.sh
+          ./sh/ch16.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch17.sh
+          ./sh/ch17.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch18.sh
+          ./sh/ch18.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch19.sh
+          ./sh/ch19.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch20.sh
+          ./sh/ch20.sh
+      
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch21.sh
+          ./sh/ch21.sh      
           
       - name: git add
         run: |
