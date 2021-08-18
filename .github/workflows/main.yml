@@ -96,13 +96,539 @@ jobs:
           pwd
           chmod +x sh/ch10.sh
           ./sh/ch10.sh
-          
+		  
       - name: Main
         run: |
           pwd
           chmod +x sh/ch11.sh
           ./sh/ch11.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch12.sh
+          ./sh/ch12.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch13.sh
+          ./sh/ch13.sh
+     
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch14.sh
+          ./sh/ch14.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch15.sh
+          ./sh/ch15.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch16.sh
+          ./sh/ch16.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch17.sh
+          ./sh/ch17.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch18.sh
+          ./sh/ch18.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch19.sh
+          ./sh/ch19.sh
           
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch20.sh
+          ./sh/ch20.sh
+		  
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch21.sh
+          ./sh/ch21.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch22.sh
+          ./sh/ch22.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch23.sh
+          ./sh/ch23.sh
+     
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch24.sh
+          ./sh/ch24.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch25.sh
+          ./sh/ch25.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch26.sh
+          ./sh/ch26.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch27.sh
+          ./sh/ch27.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch28.sh
+          ./sh/ch28.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch29.sh
+          ./sh/ch29.sh
+          
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch30.sh
+          ./sh/ch30.sh
+		  
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch31.sh
+          ./sh/ch31.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch32.sh
+          ./sh/ch32.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch33.sh
+          ./sh/ch33.sh
+     
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch34.sh
+          ./sh/ch34.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch35.sh
+          ./sh/ch35.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch36.sh
+          ./sh/ch36.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch37.sh
+          ./sh/ch37.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch38.sh
+          ./sh/ch38.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch39.sh
+          ./sh/ch39.sh
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch40.sh
+          ./sh/ch40.sh
+		  
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch41.sh
+          ./sh/ch41.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch42.sh
+          ./sh/ch42.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch43.sh
+          ./sh/ch43.sh
+     
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch44.sh
+          ./sh/ch44.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch45.sh
+          ./sh/ch45.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch46.sh
+          ./sh/ch46.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch47.sh
+          ./sh/ch47.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch48.sh
+          ./sh/ch48.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch49.sh
+          ./sh/ch49.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch50.sh
+          ./sh/ch50.sh
+		  
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch51.sh
+          ./sh/ch51.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch52.sh
+          ./sh/ch52.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch53.sh
+          ./sh/ch53.sh
+     
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch54.sh
+          ./sh/ch54.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch55.sh
+          ./sh/ch55.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch56.sh
+          ./sh/ch56.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch57.sh
+          ./sh/ch57.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch58.sh
+          ./sh/ch58.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch59.sh
+          ./sh/ch59.sh
+          
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch60.sh
+          ./sh/ch60.sh
+		  
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch61.sh
+          ./sh/ch61.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch62.sh
+          ./sh/ch62.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch63.sh
+          ./sh/ch63.sh
+     
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch64.sh
+          ./sh/ch64.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch65.sh
+          ./sh/ch65.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch66.sh
+          ./sh/ch66.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch67.sh
+          ./sh/ch67.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch68.sh
+          ./sh/ch68.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch69.sh
+          ./sh/ch69.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch70.sh
+          ./sh/ch70.sh
+		  
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch71.sh
+          ./sh/ch71.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch72.sh
+          ./sh/ch72.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch73.sh
+          ./sh/ch73.sh
+     
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch74.sh
+          ./sh/ch74.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch75.sh
+          ./sh/ch75.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch76.sh
+          ./sh/ch76.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch77.sh
+          ./sh/ch77.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch78.sh
+          ./sh/ch78.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch79.sh
+          ./sh/ch79.sh
+          
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch80.sh
+          ./sh/ch80.sh
+		  
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch81.sh
+          ./sh/ch81.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch82.sh
+          ./sh/ch82.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch83.sh
+          ./sh/ch83.sh
+     
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch84.sh
+          ./sh/ch84.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch85.sh
+          ./sh/ch85.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch86.sh
+          ./sh/ch86.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch87.sh
+          ./sh/ch87.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch88.sh
+          ./sh/ch88.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch89.sh
+          ./sh/ch89.sh
+          
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch90.sh
+          ./sh/ch90.sh
+		  
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch91.sh
+          ./sh/ch91.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch92.sh
+          ./sh/ch92.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch93.sh
+          ./sh/ch93.sh
+     
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch94.sh
+          ./sh/ch94.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch95.sh
+          ./sh/ch95.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch96.sh
+          ./sh/ch96.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch97.sh
+          ./sh/ch97.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch98.sh
+          ./sh/ch98.sh
+
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch99.sh
+          ./sh/ch99.sh
       - name: git add
         run: |
           git add -A
