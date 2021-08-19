@@ -39,7 +39,17 @@ jobs:
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(youtube-dl -g https://www.youtube.com/watch?v=36YnV9STBqc)
+        EOL       
+    - name: Get Panda24HDLive.m3u8
+      run: |
+        touch ./Panda24HDLive.m3u8
+        sudo cat >./Panda24HDLive <<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(youtube-dl -g https://www.youtube.com/watch?v=kdw-HoWSGRI)
         EOL
+        
     - name : Upload artifact
       uses: actions/upload-artifact@master
       with:
