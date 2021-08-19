@@ -1,5 +1,5 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-AR | Nessma |  |
-https://www.dailymotion.com/video/x7lmd4f
+AR | Alghad Live |  |
+https://www.youtube.com/c/alghadtv/live
