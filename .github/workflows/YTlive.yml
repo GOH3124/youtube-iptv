@@ -43,7 +43,7 @@ jobs:
     - name: Get Panda24HDLive.m3u8
       run: |
         touch ./Panda24HDLive.m3u8
-        sudo cat >./Panda24HDLive <<EOL
+        sudo cat >./Panda24HDLive.m3u8<<EOL
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
