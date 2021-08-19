@@ -1,5 +1,5 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-BNC | nessma |  |
-https://www.dailymotion.com/video/x7lmd4f
+FR | France Info |  |
+https://www.youtube.com/channel/UCO6K_kkdP-lnSCiO3tPx7WA/live
