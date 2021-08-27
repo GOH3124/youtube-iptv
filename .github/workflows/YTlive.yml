@@ -47,7 +47,7 @@ jobs:
         #EXTM3U
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-        $(youtube-dl -g https://www.youtube.com/watch?v=kdw-HoWSGRI)
+        $(youtube-dl -g https://www.youtube.com/channel/UCtEgLf0_j1vJLz0aNEdO2SQ/live)
         EOL
         
     - name : Upload artifact
