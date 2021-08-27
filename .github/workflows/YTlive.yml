@@ -49,7 +49,15 @@ jobs:
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(youtube-dl -g https://www.youtube.com/channel/UCtEgLf0_j1vJLz0aNEdO2SQ/live)
         EOL
-        
+    - name: Get Beautiful Relaxing Music.m3u8
+      run: |
+        touch ./Beautiful.m3u8
+        sudo cat >./Beautiful.m3u8<<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(youtube-dl -g https://www.youtube.com/channel/UCwfsV3Arx9rO7hWY3wXsasA/live)
+        EOL
     - name : Upload artifact
       uses: actions/upload-artifact@master
       with:
