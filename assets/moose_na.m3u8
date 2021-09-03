@@ -1,3 +1,8 @@
 #EXTM3U
-#EXTINF:0,moose_na1.ts
+#EXT-X-TARGETDURATION:10
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTINF:8.884467,
 https://raw.githubusercontent.com/Winges4k/youtube-iptv/main/assets/moose_na1.ts
