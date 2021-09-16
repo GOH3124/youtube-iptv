@@ -446,21 +446,17 @@ https://web.hypp.tv:443/PLTV/88888888/224/3221227726/3221227726.mpd
 https://web.hypp.tv:443/PLTV/88888888/224/3221227634/3221227634.mpd
 
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=com.microsoft.playready
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2g4X2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiOTgyNjk5MSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=VmkG%2FnkMNDuNoZKk%2F1cG3xTZG5w%3D&
 #EXTINF:-1 group-title="Singapura" tvg-ID="Ch8.SG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/CH_8_2015.png",8頻道
 https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=com.microsoft.playready
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiNTc1NDE1NiIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=GJ/UWeTXAOfpju0oZkr0UtvrZ8k=&
 #EXTINF:-1  group-title="Singapura" tvg-ID="ChU.SG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/CH_U_2015.png",U頻道
 https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd
 
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ZTBiY2UzNWYtNzc5Yi0zZjY5LWFiYTMtYzUzNGQwODRlMTBl
-#EXTINF:-1 group-title="Preview Channel" ch-number="100" tvg-id="100" tvg-chno="100" tvg-logo="https://weareblahs.s-ul.eu/PFIl2tcE",unifi TV
-http://1.9.62.158/PLTV/88888888/224/3221227609/3221227609.mpd
 
 #EXTINF:-1 group-title="Radio Stations" ch-number="956" tvg-id="CHN" tvg-chno="956" tvg-logo="https://weareblahs.s-ul.eu/unifi-tv/z7NxkSb6",988
 https://playerservices.streamtheworld.com/api/livestream-redirect/988_FMAAC.aac?DIST=TuneIn
