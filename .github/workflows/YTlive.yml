@@ -57,6 +57,15 @@ jobs:
         #EXT-X-VERSION:3
         #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
         $(youtube-dl -g https://www.youtube.com/channel/UCwfsV3Arx9rO7hWY3wXsasA/live)
+        EOL     
+      - name: Get Chinese DJ.m3u8
+      run: |
+        touch ./ChineseDJ.m3u8
+        sudo cat >./ChineseDJ.m3u8<<EOL
+        #EXTM3U
+        #EXT-X-VERSION:3
+        #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+        $(youtube-dl -g https://www.youtube.com/channel/UCIEHncLjW0T2PfQkIs5ZURg/live)
         EOL
     - name : Upload artifact
       uses: actions/upload-artifact@master
