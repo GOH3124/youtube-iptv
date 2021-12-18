@@ -624,6 +624,12 @@ jobs:
           chmod +x sh/ch99.sh
           ./sh/ch99.sh
           
+      - name: Main
+        run: |
+          pwd
+          chmod +x sh/ch99.sh
+          ./sh/ch100.sh
+          
       - name: git add
         run: |
           git add -A
