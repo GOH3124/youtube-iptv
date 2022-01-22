@@ -1,5 +1,5 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-AR | Monte Carlo Doualiya |  |
-https://www.youtube.com/c/MCDoualiya/live
+AR | ناة الشيخ محمد ابن عثيمين |  |
+http://www.youtube.com/channel/UCtF3YygTiodnYSw8vD3UJtQ/live
