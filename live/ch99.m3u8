@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1643678280/ei/6DX4YazbN6zjhwaPu6qIBA/ip/52.186.148.125/id/fpVqoE0blvw.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr1---sn-p5qlsnz6.googlevideo.com/vprv/1/playlist_type/LIVE/mh/KE/mm/44/mn/sn-p5qlsnz6/ms/lva/mv/u/mvi/1/pl/22/dover/11/keepalive/yes/fexp/24001373,24007246/mt/1643656232/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,vprv,playlist_type/sig/AOq0QJ8wRQIhAPkZYiem6Qut5GGIqZQ2pB4My7NzVlxYhZa9QGUJe13dAiAkOmWwgXdJ2gl207X6qV9Sc5eLEWM1p2i4gAij_vbMdg%3D%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIhAOvQIX2CUIGhy3Tklmq9SP9E2wGUVRVMpqWJrVW08SxVAiArSBnlsh8L5YHXyktG3SiDkX0r8xM-Ey7Dwc6dG1SScg%3D%3D/playlist/index.m3u8
+https://raw.githubusercontent.com/Winges4k/youtube-iptv/main/assets/moose_na.m3u8
