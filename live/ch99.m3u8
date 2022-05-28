@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://raw.githubusercontent.com/Winges4k/youtube-iptv/main/assets/moose_na.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1653794530/ei/gpKSYviZDZG9gwOY1IvoCg/ip/52.136.117.135/id/rn5V6ZTx5yk.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr5---sn-vgqsrned.googlevideo.com/spc/4ocVCzgvgRY3_N-IhuInhxoJ5nfL/vprv/1/playlist_type/LIVE/mh/2m/mm/44/mn/sn-vgqsrned/ms/lva/mv/u/mvi/5/pl/24/dover/11/pacing/0/keepalive/yes/fexp/24001373,24007246/mt/1653770926/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,spc,vprv,playlist_type/sig/AOq0QJ8wRAIgCE29lUYi0KR9ikdmWOIFJd24XJUKTFwtcZtDQXIwk18CID2TntmDQc3QuQdAM8BxWqjZAjjkyBMhIkTXy8hqVGdw/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIhAJxDoTH89lln-CyhHkncRp5RdWHTxE-6KLSHS4V2y6fAAiA0L7iHmlvjV5UJO0XG3F-DpMiiRzb-QZp3hjy2ZyoQUA%3D%3D/playlist/index.m3u8
